@@ -16,28 +16,16 @@
 .top-div{
   margin-left: 30px;
 }
-.new{
-  height:auto;
-  display:flex; 
-}
-@media screen and (max-width:1024px) {
-  .new {
-    width: 100%;
-  }
-}
-.new-title{
-  width:13%;
-  margin:5px;
-}
-.new-body{
-  width:35%;
-  margin-left: 20px;
-  margin-right: 10px
-}
 
-.new-link{
-  margin-left:15px;
-  
+.index-title{
+  width:150px;
+  margin:10px;
+}
+.index-body{
+  width:500px;
+}
+.index-list{
+  width:10px;
 }
 .show-title{
   margin:50px;
